@@ -129,10 +129,36 @@ a{
 }
 /* content4 */
 .content4{
-    padding: 80px;
-    justify-items: center;
+    padding: 100px 200px ;
+    
 }
+.box{
+    background-color: #3882f6;
+    padding: 60px 120px;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 10px;
 
+}
+.c4header{
+    color:#f9faf8;
+    font-size: 24px;
+    font-weight: 500;
+
+}
+.c4text{
+    color: #e5e7eb;
+    font-size: 18px;
+}
+.box button{
+    padding: 10px 32px;
+    background-color: #3882f6;
+    border: 2px solid white;
+    border-radius: 5px;
+    font-size: 18px;
+    color: #f9faf8;
+    font-weight: 900;
+}
 
 /* footer */
 .footer{
