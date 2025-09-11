@@ -95,3 +95,14 @@ a{
     border: 5px solid #3882f6;
     border-radius: 20px;
 }
+.card1,.card2,.card3,.card4{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 200px;
+    gap: 20px;
+}
+.cdtext{
+    font-size: 18px;
+    color:grey;
+}
