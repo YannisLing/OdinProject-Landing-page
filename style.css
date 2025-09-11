@@ -12,12 +12,13 @@ body{
     
     justify-content: space-between;
     align-items: center;
-    padding:0 150px 0 150px;
+    padding:20px 400px 20px 400px;
     
 }
 .herologotext{
     font-size:24px;
     color:#f9faf8;
+    font-weight: 900;
     
     
 }
@@ -39,7 +40,8 @@ a{
 .content1{
     background-color: #1f2937;
     display: flex;
-    padding:50px 150px 50px 150px ;
+    padding:150px 400px 150px 400px ;
+    align-items: center;
 }
 .container{
     flex:1;
@@ -48,7 +50,7 @@ a{
 }
 .content1 img{
     flex:1;
-    height:250px
+    height:300px
 }
 .c1header{
     font-size: 48px;
@@ -59,7 +61,8 @@ a{
     text-decoration: none;
     font-size: 18px;
     color: #e5e7eb;
-    margin-bottom: 15px;
+    margin-bottom: 30px;
+    margin-top: 10px;
 
 }
 .container button {
