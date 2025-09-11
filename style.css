@@ -109,3 +109,29 @@ a{
 .content2{
     margin-bottom: 100px;
 }
+
+/* content3 */
+.content3{
+    background-color: #e5e7eb;
+    padding :100px 450px 100px 450px;
+}
+.c3text{
+    justify-self: center;
+    font-size: 36px;
+    color:#1f2937;
+    font-weight: 300;
+}
+.author{
+    font-size: 25px;
+    justify-self:end;
+    font-weight: 500;
+    margin-top: 20px;
+}
+/* footer */
+.footer{
+    background-color: #1f2937;
+    text-align: center;
+    color: #e5e7eb;
+    font-size: larger;
+    padding: 50px 0;
+}
