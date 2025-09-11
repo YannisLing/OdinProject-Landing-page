@@ -2,6 +2,7 @@
 body{
         margin: 0;
 }
+/* header部分 */
 .header{
     display: flex;
     background-color: #1f2937;
@@ -32,4 +33,11 @@ a{
     text-decoration: none;
     font-size: 18px;
     color: #e5e7eb;
+}
+
+/* content1部分 */
+.content1{
+    background-color: #1f2937;
+    display: flex;
+    
 }
