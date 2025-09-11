@@ -127,6 +127,13 @@ a{
     font-weight: 500;
     margin-top: 20px;
 }
+/* content4 */
+.content4{
+    padding: 80px;
+    justify-items: center;
+}
+
+
 /* footer */
 .footer{
     background-color: #1f2937;
