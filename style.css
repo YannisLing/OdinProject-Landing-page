@@ -1,3 +1,6 @@
+* {
+    font-family: Roboto;
+}
 
 body{
         margin: 0;
@@ -15,7 +18,7 @@ body{
 .herologotext{
     font-size:24px;
     color:#f9faf8;
-    font-family: Roboto;
+    
     
 }
 ul{
@@ -24,7 +27,7 @@ ul{
     list-style-type: none; 
     justify-content: space-between; 
     flex:0 0 250px;
-    font-family: Roboto;
+    
     
 
 }
@@ -39,5 +42,12 @@ a{
 .content1{
     background-color: #1f2937;
     display: flex;
-    
+    padding:0 150px 0 150px ;
+}
+.container{
+    flex:0 0 400px;
+
+}
+.c1header{
+    font-family: Roboto;
 }
