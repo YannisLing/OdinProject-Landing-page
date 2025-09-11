@@ -50,7 +50,8 @@ a{
 }
 .content1 img{
     flex:1;
-    height:300px
+    height:300px;
+    border-radius: 5px;
 }
 .c1header{
     font-size: 48px;
