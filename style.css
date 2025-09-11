@@ -1,6 +1,35 @@
+
+body{
+        margin: 0;
+}
 .header{
     display: flex;
     background-color: #1f2937;
+    
+    justify-content: space-between;
+    align-items: center;
+    padding:0 150px 0 150px;
+    
+}
+.herologotext{
+    font-size:24px;
+    color:#f9faf8;
     font-family: Roboto;
+    
+}
+ul{
+    display: flex;
+    padding: 0;
+    list-style-type: none; 
+    justify-content: space-between; 
+    flex:0 0 250px;
+    font-family: Roboto;
+    
 
+}
+
+a{
+    text-decoration: none;
+    font-size: 18px;
+    color: #e5e7eb;
 }
